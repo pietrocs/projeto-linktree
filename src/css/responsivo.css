@@ -1,0 +1,11 @@
+@media(max-widht: 1440px){
+    body {
+        padding:  40px;
+    }
+}
+
+@media(max-widht:375px){
+    body{
+        padding: 0 40px;
+    }
+}
